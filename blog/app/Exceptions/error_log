@@ -1,0 +1,1 @@
+[28-Aug-2020 16:40:36 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/dmmar972/slim.dmmarket.com.br/blog/app/Exceptions/Handler.php on line 8

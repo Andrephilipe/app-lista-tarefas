@@ -1,0 +1,8 @@
+[28-Aug-2020 16:40:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/dmmar972/slim.dmmarket.com.br/blog/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/bootstrap/app.php on line 14
+[28-Aug-2020 16:40:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/dmmar972/slim.dmmarket.com.br/blog/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/bootstrap/app.php on line 14

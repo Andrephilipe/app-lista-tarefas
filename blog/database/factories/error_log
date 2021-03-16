@@ -1,0 +1,4 @@
+[28-Aug-2020 16:40:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home2/dmmar972/slim.dmmarket.com.br/blog/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/database/factories/UserFactory.php on line 20

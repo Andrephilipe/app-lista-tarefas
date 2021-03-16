@@ -1,0 +1,48 @@
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/mail.php on line 16
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/services.php on line 18
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/queue.php on line 16
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/session.php on line 21
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/view.php on line 17
+[28-Aug-2020 16:40:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/mail.php on line 16
+[28-Aug-2020 16:40:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/session.php on line 21
+[28-Aug-2020 16:40:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/queue.php on line 16
+[28-Aug-2020 16:40:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/view.php on line 17
+[28-Aug-2020 16:40:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/services.php on line 18
+[28-Aug-2020 16:40:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/cache.php on line 21
+[28-Aug-2020 16:40:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/dmmar972/slim.dmmarket.com.br/blog/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/blog/config/app.php on line 16

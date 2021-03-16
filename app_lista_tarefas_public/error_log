@@ -1,0 +1,191 @@
+[05-Jul-2020 15:46:09 America/Fortaleza] PHP Warning:  require(../../app_lista_tarefas/class_tarefas.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[05-Jul-2020 15:46:09 America/Fortaleza] PHP Warning:  require(../../app_lista_tarefas/class_tarefas.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[05-Jul-2020 15:46:09 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../../app_lista_tarefas/class_tarefas.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[05-Jul-2020 15:46:44 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to TarefaService::__construct() must be an instance of Tarefa, null given, called in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18 and defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:7
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(18): TarefaService->__construct(Object(Conexao), NULL)
+#1 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 7
+[05-Jul-2020 16:14:11 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to TarefaService::__construct() must be an instance of Tarefa, null given, called in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18 and defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:7
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(18): TarefaService->__construct(Object(Conexao), NULL)
+#1 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 7
+[05-Jul-2020 16:14:16 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to TarefaService::__construct() must be an instance of Tarefa, null given, called in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18 and defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:7
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(18): TarefaService->__construct(Object(Conexao), NULL)
+#1 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 7
+[05-Jul-2020 16:14:27 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to TarefaService::__construct() must be an instance of Tarefa, null given, called in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18 and defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:7
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(18): TarefaService->__construct(Object(Conexao), NULL)
+#1 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 7
+[05-Jul-2020 16:24:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Lista_Tarefa' not found in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 17
+[05-Jul-2020 16:28:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Lista_Tarefa' not found in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18
+[05-Jul-2020 16:28:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Lista_Tarefa' not found in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 18
+[06-Jul-2020 10:04:44 America/Fortaleza] PHP Warning:  require(../../app_lista_tarefas/tarefas.controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:04:44 America/Fortaleza] PHP Warning:  require(../../app_lista_tarefas/tarefas.controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:04:44 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../../app_lista_tarefas/tarefas.controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:05:10 America/Fortaleza] PHP Warning:  require(../app_lista_tarefas/tarefas.controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:05:10 America/Fortaleza] PHP Warning:  require(../app_lista_tarefas/tarefas.controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:05:10 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../app_lista_tarefas/tarefas.controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php on line 3
+[06-Jul-2020 10:05:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Lista_Tarefa' not found in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:17
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 17
+[06-Jul-2020 10:07:13 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to TarefaService::__construct() must be an instance of Tarefa, instance of Lista_Tarefa given, called in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 16 and defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:7
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php(16): TarefaService->__construct(Object(Conexao), Object(Lista_Tarefa))
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 7
+[11-Jul-2020 08:23:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php:43
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php(37): TarefaService->atualizar()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 43
+[13-Jul-2020 15:01:32 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 103
+[13-Jul-2020 15:08:45 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 103
+[13-Jul-2020 15:09:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 103
+[13-Jul-2020 15:10:25 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 103
+[13-Jul-2020 15:30:40 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:38:18 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:39:28 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:39:54 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:48:18 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:49:20 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:49:47 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:50:26 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[13-Jul-2020 15:54:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 05:56:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 06:14:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 06:14:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 06:14:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 06:32:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 06:38:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function __set() on null in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php:55
+Stack trace:
+#0 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/tarefa_controller.php(3): require()
+#1 /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php(3): require('/home2/dmmar972...')
+#2 {main}
+  thrown in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefa_controller.php on line 55
+[16-Jul-2020 07:12:40 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:13:39 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:19:22 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:19:26 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:20:15 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:20:45 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:20:46 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:20:47 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:25:35 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 39
+[16-Jul-2020 07:27:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 59
+[16-Jul-2020 07:28:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 68
+[16-Jul-2020 07:28:58 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 68
+[16-Jul-2020 07:29:59 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 39
+[16-Jul-2020 07:30:42 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 39
+[16-Jul-2020 07:31:52 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:34:27 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 39
+[16-Jul-2020 07:38:12 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 39
+[16-Jul-2020 07:43:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:44:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:45:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:45:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:45:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:46:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:46:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:47:49 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 74
+[16-Jul-2020 07:48:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 75
+[16-Jul-2020 07:52:13 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:53:16 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:55:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 07:57:12 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 08:16:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 79
+[16-Jul-2020 08:18:06 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:18:06 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:18:06 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'tarefas_controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:04 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:04 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:04 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'tarefas_controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:07 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:07 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:19:07 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'tarefas_controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:20:13 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:20:13 America/Fortaleza] PHP Warning:  require(tarefas_controller.php): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:20:13 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'tarefas_controller.php' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:20:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 79
+[16-Jul-2020 08:22:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 79
+[16-Jul-2020 08:23:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 79
+[16-Jul-2020 08:23:54 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:23:54 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:23:54 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'recuperarTarefasPendentes' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:25:48 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:25:48 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:25:48 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'recuperarTarefasPendentes' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:27:13 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:27:13 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:27:13 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'recuperarTarefasPendentes' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 4
+[16-Jul-2020 08:27:44 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 2
+[16-Jul-2020 08:27:44 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 2
+[16-Jul-2020 08:27:44 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'recuperarTarefasPendentes' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 2
+[16-Jul-2020 08:30:17 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:30:17 America/Fortaleza] PHP Warning:  require(recuperarTarefasPendentes): failed to open stream: No such file or directory in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:30:17 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'recuperarTarefasPendentes' (include_path='.:/opt/php71/lib/php') in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 3
+[16-Jul-2020 08:31:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas/tarefas_model.php on line 79
+[16-Jul-2020 09:31:20 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 50
+[16-Jul-2020 09:52:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 50
+[16-Jul-2020 09:52:49 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 44
+[16-Jul-2020 10:06:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 44
+[16-Jul-2020 10:08:46 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:23:59 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 107
+[16-Jul-2020 10:24:11 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 107
+[16-Jul-2020 10:24:26 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:28 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:29 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:31 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:33 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:34 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
+[16-Jul-2020 10:24:49 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 107
+[16-Jul-2020 10:24:53 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 107
+[03-Aug-2020 16:22:44 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/index.php on line 107
+[03-Aug-2020 16:22:55 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/dmmar972/slim.dmmarket.com.br/app_lista_tarefas_public/todas_tarefas.php on line 108
